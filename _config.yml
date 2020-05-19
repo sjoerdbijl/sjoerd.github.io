@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Sjoerd Bijl"
-  avatar : "/assets/treeee.jpg"
+  avatar : "/assets/images/treeee.jpg"
   bio    : "Looking for an intership in content writing."
   links:
     - label: "Twitter"
