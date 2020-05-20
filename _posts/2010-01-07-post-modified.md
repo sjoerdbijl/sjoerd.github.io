@@ -8,7 +8,3 @@ tags:
   - readability
   - standard
 ---
-bla blaa bla this is just to see for me whether this page will be edited and ladilada
-
-
-new test
