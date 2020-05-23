@@ -1,5 +1,5 @@
 ---
-title: "Post: Standard"
+title: "Reis naar Rusland"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
