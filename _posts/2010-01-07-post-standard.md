@@ -9,24 +9,45 @@ tags:
   - standard
 ---
 
-All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, "Oh, why can't you remain like this for ever!" This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.
+Rusland - Sint-Petersburg - Sjoerd
+Sjoerd studeerde een semester aan de Saint Petersburg University of Economics: "Russen zijn enorm geïnteresseerd in buitenlanders en na kennismaking warme mensen."
 
-Mrs. Darling first heard of Peter when she was tidying up her children's minds. It is the nightly custom of every good mother after her children are asleep to rummage in their minds and put things straight for next morning, repacking into their proper places the many articles that have wandered during the day.
+Opleiding: International Business and Management
+Instelling: Saint Petersburg University of Economics
+Buitenlandervaring: studie
+Locatie: Sint-Petersburg
+ Sjoerd in St.-Petersburg
 
-<!--more-->
+Sint-Petersburg
+Mijn motivatie om naar Sint-Petersburg te gaan kwam voort uit de interesse voor het land, Rusland is het grootste land van de wereld waar ik eigenlijk niets van af wist. En na deze buitenlandervaring eigenlijk nog maar een klein beetje meer. Ik heb bewust Sint-Petersburg als locatie gekozen omdat het toegankelijk leek voor buitenlandse studenten.
 
-This post has a manual excerpt `<!--more-->` set after the second paragraph. The following YAML Front Matter has also be applied:
+Daarnaast heeft de stad veel cultuur te bieden om een kijkje te nemen in het land.
+Ik heb een semester gestudeerd aan de “Saint Petersburg State University of Economics” (UNECON). Zij hebben een samenwerking met mijn hogeschool. Ik zou zeggen dat deze instelling vergelijkbaar is met een Nederlandse Hogeschool.
 
-```yaml
-excerpt_separator: "<!--more-->"
-```
+Russische visa
+Het proces van aanmelden en verblijf regelen was vrij gemakkelijk door de overeenkomst tussen mijn hogeschool en de partneruniversiteit. Ik hoefde eigenlijk alleen een paar formulieren en e-mails te versturen en ik stond ingeschreven. Daarnaast bood de universiteit dorms aan op de campus waardoor ik erg makkelijk verblijf vond.
 
-If you could keep awake (but of course you can't) you would see your own mother doing this, and you would find it very interesting to watch her. It is quite like tidying up drawers. You would see her on her knees, I expect, lingering humorously over some of your contents, wondering where on earth you had picked this thing up, making discoveries sweet and not so sweet, pressing this to her cheek as if it were as nice as a kitten, and hurriedly stowing that out of sight. When you wake in the morning, the naughtiness and evil passions with which you went to bed have been folded up small and placed at the bottom of your mind and on the top, beautifully aired, are spread out your prettier thoughts, ready for you to put on.
+De Visumaanvraag was iets lastiger en hier kon ik in Nederland geen assistentie van de universiteit voor krijgen. Eenmaal in Rusland hielpen ze mij wel met het verlengen van mijn visa en andere vragen rondom mijn verblijf en registratie.
 
-I don't know whether you have ever seen a map of a person's mind. Doctors sometimes draw maps of other parts of you, and your own map can become intensely interesting, but catch them trying to draw a map of a child's mind, which is not only confused, but keeps going round all the time. There are zigzag lines on it, just like your temperature on a card, and these are probably roads in the island, for the Neverland is always more or less an island, with astonishing splashes of colour here and there, and coral reefs and rakish-looking craft in the offing, and savages and lonely lairs, and gnomes who are mostly tailors, and caves through which a river runs, and princes with six elder brothers, and a hut fast going to decay, and one very small old lady with a hooked nose. It would be an easy map if that were all, but there is also first day at school, religion, fathers, the round pond, needle-work, murders, hangings, verbs that take the dative, chocolate pudding day, getting into braces, say ninety-nine, three-pence for pulling out your tooth yourself, and so on, and either these are part of the island or they are another map showing through, and it is all rather confusing, especially as nothing will stand still.
+Ik denk dat ik 2 maanden voor mijn aankomst een uitnodiging kreeg van de partneruniversiteit. Hierna kon ik direct mijn visum aanvragen.
 
-Of course the Neverlands vary a good deal. John's, for instance, had a lagoon with flamingoes flying over it at which John was shooting, while Michael, who was very small, had a flamingo with lagoons flying over it. John lived in a boat turned upside down on the sands, Michael in a wigwam, Wendy in a house of leaves deftly sewn together. John had no friends, Michael had friends at night, Wendy had a pet wolf forsaken by its parents, but on the whole the Neverlands have a family resemblance, and if they stood still in a row you could say of them that they have each other's nose, and so forth. On these magic shores children at play are for ever beaching their coracles [simple boat]. We too have been there; we can still hear the sound of the surf, though we shall land no more.
+Beurs
+Wonen in Sint-Petersburg was een stuk duurder dan ik had verwacht. Hoewel mijn huur van € 200 lager is dan de meeste kamers in Nederland, telden de prijzen van boodschappen, abonnement voor de klimmuur, en tripjes buiten de stad aardig op. Mijn uitgaven waren hoger dan in Nederland.
 
-Of all delectable islands the Neverland is the snuggest and most compact, not large and sprawly, you know, with tedious distances between one adventure and another, but nicely crammed. When you play at it by day with the chairs and table-cloth, it is not in the least alarming, but in the two minutes before you go to sleep it becomes very real. That is why there are night-lights.
+Hierbij moet ik wel zeggen dat de campus van mijn universiteit in het centrum van de stad ligt, waardoor de prijzen in het algemeen erg hoog zijn. Een deel van mijn kosten kon ik gelukkig dekken met een beurs van “Holland Scholarship.”
 
-Occasionally in her travels through her children's minds Mrs. Darling found things she could not understand, and of these quite the most perplexing was the word Peter. She knew of no Peter, and yet he was here and there in John and Michael's minds, while Wendy's began to be scrawled all over with him. The name stood out in bolder letters than any of the other words, and as Mrs. Darling gazed she felt that it had an oddly cocky appearance.
+Geïnteresseerd in buitenlanders
+Ik heb geluk gehad dat ik in de eerste paar weken wat Russische studenten heb leren kennen via een soort studievereniging van de universiteit. Hierdoor kwam ik snel terecht in leuke musea en datsja’s, en werd ik uitgenodigd op huisfeestjes. Russen zijn enorm geïnteresseerd in buitenlanders en na kennismaking warme mensen. Daardoor is contact leggen erg makkelijk.
+
+Bovendien was er op de campus een gemeenschap van internationale studenten om mee om te gaan. Ook waren er veel dingen in de stad om te bekijken en te doen, bijvoorbeeld schaatsen, de vlooienmarkt bezoeken of naar een museum gaan (wat ik zelf thuis eigenlijk nooit deed).
+
+Om op een goede plek terecht te komen voor een buitenlandervaring kun je het beste eerst bedenken wat je eruit wilt halen voordat je overhaast een locatie kiest. Sint-Petersburg is bijvoorbeeld een goede locatie om een nieuwe cultuur te ontdekken maar geen fantastische plek om een half jaartje vakantie te houden.
+
+Investeren in jezelf
+Een semester naar het buitenland is een investering in jezelf en een leuke ervaring. Ik kan het alleen maar aanraden!
+
+Sjoerd
+
+
+link to original post:
+"https://www.wilweg.nl/landen/meer-landen/rusland/ervaringen-in-rusland/rusland-sint-petersburg-sjoerd
