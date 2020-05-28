@@ -10,10 +10,13 @@ tags:
 ---
 
 Opleiding: International Business and Management
+
 Instelling: Saint Petersburg University of Economics
+
 Buitenlandervaring: studie
+
 Locatie: Sint-Petersburg
- Sjoerd in St.-Petersburg
+
 
 Mijn motivatie om naar Sint-Petersburg te gaan kwam voort uit de interesse voor het land, Rusland is het grootste land van de wereld waar ik eigenlijk niets van af wist. En na deze buitenlandervaring eigenlijk nog maar een klein beetje meer. Ik heb bewust Sint-Petersburg als locatie gekozen omdat het toegankelijk leek voor buitenlandse studenten.
 
