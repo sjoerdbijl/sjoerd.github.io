@@ -1,5 +1,5 @@
 ---
-title: "2500 words with Anki"
+title: "2500 Russian words"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
