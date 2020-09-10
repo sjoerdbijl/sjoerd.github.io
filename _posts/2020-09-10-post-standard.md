@@ -3,10 +3,6 @@ title: "2500 Russian words"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
-tags:
-  - Post Formats
-  - readability
-  - standard
 ---
 This may look like a funny designed logo, maybe not even so professionally drawn picture, but its powers will surprise you, it’s Anki! 
 …
