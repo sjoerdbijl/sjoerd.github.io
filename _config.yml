@@ -58,6 +58,7 @@ author:
   name: "Sjoerd Bijl"
   avatar: "/assets/images/treeee.jpg"
   bio: ""
+  url: "https://github.com/sjoerdbijl"
   links:
     - label: "Github"
       icon: "fa-brands fa-square-github"
