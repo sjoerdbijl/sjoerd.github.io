@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Cultlives
-email: sjoerd_bijl@hotmail.com
+title: Sjoerd
+email: sjoerdbijl.sb@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
- Sjoerd Bijl is nothing currently
+ Some posts about my life
 twitter_username: SjoerdBijl
 minimal_mistakes_skin: default
 search: true
@@ -59,12 +59,15 @@ author:
   avatar : "/assets/images/treeee.jpg"
   bio    : 
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/sjoerdbijl"
+    - label: "Github"
+      icon: "fa fa-github-square"
+      url: "https://github.com/sjoerdbijl"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/sbijl/?hl=en"
+      - label: "Linkedin"
+      icon: "fab fa-linkedin-in"
+      url: "https://www.linkedin.com/in/sjoerd-bijl-sb99"
 
 footer:
   links:
