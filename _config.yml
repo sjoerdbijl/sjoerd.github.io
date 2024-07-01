@@ -60,9 +60,8 @@ author:
   bio: ""
   links:
     - label: "Github"
-      icon: "fa fa-github-square"
+      icon: "fa-brands fa-square-github"
       url: "https://github.com/sjoerdbijl"
-
 
 footer:
   links:
