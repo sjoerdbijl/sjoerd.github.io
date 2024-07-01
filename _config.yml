@@ -62,12 +62,6 @@ author:
     - label: "Github"
       icon: "fa fa-github-square"
       url: "https://github.com/sjoerdbijl"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/sbijl/?hl=en"
-      - label: "Linkedin"
-      icon: "fab fa-linkedin-in"
-      url: "https://www.linkedin.com/in/sjoerd-bijl-sb99"
 
 footer:
   links:
