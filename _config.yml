@@ -62,7 +62,8 @@ author:
   links:
     - label: "Github"
       icon: "fa-brands fa-square-github"
-      url: "https://github.com/sjoerdbijl"
+      url: [link text](https://github.com/sjoerdbijl){:target="_blank"}
+      
     - label: "Instagram"
       icon: "fa-brands fa-square-instagram"
       url: "https://instagram.com/sbijl/"
