@@ -53,6 +53,8 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-target-blank
+
 
 author:
   name: "Sjoerd Bijl"
@@ -62,7 +64,7 @@ author:
   links:
     - label: "Github"
       icon: "fa-brands fa-square-github"
-      url: [link text](https://github.com/sjoerdbijl){:target="_blank"}
+      url: "https://github.com/sjoerdbijl"
       
     - label: "Instagram"
       icon: "fa-brands fa-square-instagram"
