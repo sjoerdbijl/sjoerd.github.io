@@ -1,7 +1,8 @@
 ---
 title: "CV"
-permalink: /cv/
-author_profile: false
+permalink: /cv
+layout: posts
+author_profile: true
 ---
 
 # CV
