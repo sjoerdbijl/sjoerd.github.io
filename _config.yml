@@ -59,10 +59,10 @@ author:
   avatar : "/assets/images/treeee.jpg"
   bio    : 
   links:
-      - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/sbijl/?hl=en"
-     
+    - label: "Github"
+      icon: "fa fa-github-square"
+      url: "https://github.com/sjoerdbijl"
+      
 
 footer:
   links:
