@@ -55,14 +55,14 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Sjoerd Bijl"
-  avatar : "/assets/images/treeee.jpg"
-  bio    : 
+  name: "Sjoerd Bijl"
+  avatar: "/assets/images/treeee.jpg"
+  bio: ""
   links:
     - label: "Github"
       icon: "fa fa-github-square"
       url: "https://github.com/sjoerdbijl"
-      
+
 
 footer:
   links:
