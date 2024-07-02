@@ -22,6 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 minimal_mistakes_skin: sunrise
 repository: sjoerdbijl/sjoerdbijl.github.io
 search: false
+breadcrumbs: true
 
 # Build settings
 markdown: kramdown
