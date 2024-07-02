@@ -64,13 +64,16 @@ author:
     - label: "Github"
       icon: "fa-brands fa-square-github"
       url: "https://github.com/sjoerdbijl"
-      
     - label: "Instagram"
       icon: "fa-brands fa-square-instagram"
       url: "https://instagram.com/sbijl/"
     - label: "Linkedin"
       icon: "fa-brands fa-linkedin"
       url: "https://linkedin.com/in/sjoerd-bijl-sb99"
+    - label: "CV"
+      icon: "fas fa-fw fa-file-alt"
+      url: /assets/images/bijl_cv.pdf
+
 
 
 footer:
