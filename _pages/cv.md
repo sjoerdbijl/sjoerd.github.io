@@ -1,6 +1,6 @@
 ---
 title: "CV"
-permalink: /cv.html
+permalink: pages/cv/
 ---
 
 <figure style="width: 50%" class="align-right">
