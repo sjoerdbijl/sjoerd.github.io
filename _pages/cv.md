@@ -1,5 +1,4 @@
 ---
-title: "CV"
 permalink: pages/cv/
 ---
 
