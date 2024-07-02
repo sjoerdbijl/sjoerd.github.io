@@ -1,7 +1,9 @@
 ---
 title: "CV"
 permalink: /cv.html
-author_profile: true
 ---
 
-![My CV](/assets/images/automation_cv.png)
+<figure style="width: 50%" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/automation_cv.png">
+  <figcaption>display of my cv.</figcaption>
+</figure> 
