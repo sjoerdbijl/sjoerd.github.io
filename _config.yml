@@ -62,7 +62,7 @@ author:
   url: "https://github.com/sjoerdbijl"
   links:
     - label: "CV"
-      icon: "fas fa-fw fa-file-alt"
+      icon: "fa fa-file"
       url: /assets/images/bijl_cv.pdf
     - label: "Github"
       icon: "fa-brands fa-square-github"
