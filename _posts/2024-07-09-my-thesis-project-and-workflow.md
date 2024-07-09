@@ -9,7 +9,7 @@ I wrote my thesis on [product recommendations](https://github.com/sjoerdbijl/The
 <figure style="width:50%" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/thesis_data.png" alt="Some of the data collected">
   <!-- <img style="max-height:230px; max-width:100%; height:auto; width:auto" src="{{ site.url }}{{ site.baseurl }}/assets/images/spt6.png" alt="A cartoon of transcription elongation."> -->
-  <figcaption>Tdsd.</figcaption>
+  <figcaption>Some of the item data collected.</figcaption>
 </figure> 
 
 
