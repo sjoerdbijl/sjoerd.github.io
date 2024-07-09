@@ -91,10 +91,10 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: "_posts"
-      type: "pages"
+      path: ""
+      type: "posts"
     values:
-      layout: "home"
+      layout: single
       author_profile: true
       read_time: false
       comments: false
