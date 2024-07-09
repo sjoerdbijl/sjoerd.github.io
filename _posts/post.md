@@ -1,5 +1,5 @@
 ---
-title: "Post 1"
+title: "My thesis project and workflow"
 permalink: /posts/
 layout: posts
 author_profile: true
