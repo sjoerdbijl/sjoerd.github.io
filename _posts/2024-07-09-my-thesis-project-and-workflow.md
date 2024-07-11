@@ -13,6 +13,7 @@ I wrote my thesis on [product recommendations](https://github.com/sjoerdbijl/The
 </figure> 
 
 
-
-
-With my current knowledge I wouldn't have used several csv files but instead write everything to MYSQL or a similar database and go on from there. There was a lot of clumsiness in collecting and preparing the data.  This also motivated me to brush up some technical skills around data management and analysis.
+The Github page shows the workflow of collecting the data and organizing it run by separate R scripts. This controls the phases between data preparation and analysis. 
+The files are connected through a makefile script that can be run in the command prompt. 
+<p>
+With my current knowledge, I realize that using deeper technical skills a database like MySQL would have been more efficient than relying on multiple CSV files. This insight has inspired me to improve my technical skills in data management and analysis.
